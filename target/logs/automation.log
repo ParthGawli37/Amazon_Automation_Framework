@@ -1,0 +1,15 @@
+2026-05-03 16:14:12 [main] INFO  stepdefinitions.Hooks - Initializing WebDriver...
+2026-05-03 16:14:15 [main] INFO  utils.LogUtils - Navigated to Amazon India.
+2026-05-03 16:14:15 [main] INFO  utils.LogUtils - Entering product name in search box: laptop
+2026-05-03 16:14:17 [main] INFO  utils.LogUtils - Clicking the search button.
+2026-05-03 16:14:20 [main] INFO  utils.LogUtils - Searched for product: laptop
+2026-05-03 16:14:20 [main] INFO  utils.LogUtils - Scanning search results for the first 'Add to Cart' button...
+2026-05-03 16:14:20 [main] INFO  utils.LogUtils - Found the 'Add to Cart' button on SERP. Clicking it.
+2026-05-03 16:14:23 [main] INFO  utils.LogUtils - Clicked Add to Cart directly from the search results page.
+2026-05-03 16:14:23 [main] INFO  utils.LogUtils - Clicking the Cart option from the top menu.
+2026-05-03 16:14:25 [main] INFO  utils.LogUtils - Navigated to the Cart page via top menu.
+2026-05-03 16:14:25 [main] INFO  utils.LogUtils - Clicking 'Proceed to Buy' button from the cart.
+2026-05-03 16:14:27 [main] INFO  utils.LogUtils - Clicked proceed to buy.
+2026-05-03 16:14:27 [main] INFO  utils.LogUtils - Verifying if the login page has loaded successfully.
+2026-05-03 16:14:35 [main] INFO  utils.LogUtils - Validating Login Page presence.
+2026-05-03 16:14:35 [main] ERROR stepdefinitions.Hooks - Scenario failed! Taking screenshot...

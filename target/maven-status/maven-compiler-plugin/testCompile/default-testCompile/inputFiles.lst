@@ -1,0 +1,15 @@
+C:\Users\parth\eclipse-workspace\Maven_AmazonTest_gemini\src\test\java\base\BaseClass.java
+C:\Users\parth\eclipse-workspace\Maven_AmazonTest_gemini\src\test\java\pages\CartPage.java
+C:\Users\parth\eclipse-workspace\Maven_AmazonTest_gemini\src\test\java\pages\HomePage.java
+C:\Users\parth\eclipse-workspace\Maven_AmazonTest_gemini\src\test\java\pages\LoginPage.java
+C:\Users\parth\eclipse-workspace\Maven_AmazonTest_gemini\src\test\java\pages\ProductDetailsPage.java
+C:\Users\parth\eclipse-workspace\Maven_AmazonTest_gemini\src\test\java\pages\SearchResultsPage.java
+C:\Users\parth\eclipse-workspace\Maven_AmazonTest_gemini\src\test\java\runners\TestRunner.java
+C:\Users\parth\eclipse-workspace\Maven_AmazonTest_gemini\src\test\java\stepdefinitions\AmazonSteps.java
+C:\Users\parth\eclipse-workspace\Maven_AmazonTest_gemini\src\test\java\stepdefinitions\Hooks.java
+C:\Users\parth\eclipse-workspace\Maven_AmazonTest_gemini\src\test\java\utils\ConfigReader.java
+C:\Users\parth\eclipse-workspace\Maven_AmazonTest_gemini\src\test\java\utils\LogUtils.java
+C:\Users\parth\eclipse-workspace\Maven_AmazonTest_gemini\src\test\java\utils\RetryAnalyzer.java
+C:\Users\parth\eclipse-workspace\Maven_AmazonTest_gemini\src\test\java\utils\RetryListener.java
+C:\Users\parth\eclipse-workspace\Maven_AmazonTest_gemini\src\test\java\utils\ScreenshotUtils.java
+C:\Users\parth\eclipse-workspace\Maven_AmazonTest_gemini\src\test\java\utils\TestDataProvider.java
